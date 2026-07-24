@@ -58,11 +58,9 @@
 <div class="page-heading">
 
   <div>
-
-    <h2>
-      🏆 Rankings
-    </h2>
-
+<h2>
+  🏆 Rankings
+</h2>
 
     <p>
       Top 3 players based on tournament wins
