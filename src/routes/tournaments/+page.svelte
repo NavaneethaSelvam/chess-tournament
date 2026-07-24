@@ -308,9 +308,7 @@
 
     <h2>🏆 Tournaments</h2>
 
-    <p>
-      Create tournaments and add players
-    </p>
+<p>Manage tournaments and registered players</p>
 
   </div>
 
