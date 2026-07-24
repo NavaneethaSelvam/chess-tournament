@@ -107,10 +107,7 @@
 
   <h2>⚔️ Matches</h2>
 
-  <p>
-    Generate random matches and record winners
-  </p>
-
+<p>Generate random matches and record winners</p>
 </div>
 
 
